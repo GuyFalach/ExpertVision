@@ -128,6 +128,8 @@ ReflectionProbe-*.exr
 *.copy
 *.backup
 
+# Visual Studio
+.vs/
 ## ------------------------------
 ## END
 ## ------------------------------
