@@ -75,6 +75,7 @@ Assets/StreamingAssets/aa/*
 /Assets/Oculus/VR/Editor/OVRBuildPolicy.asset.meta
 /Assets/Oculus/VR/Editor/OVRProjectConfig.asset.meta
 /Assets/Oculus/VR/Editor/OVRBuildSettings.asset.meta
+/Assets/Oculus/Avatar2_SampleAssets/
 
 # XR Interaction Toolkit samples (if imported but not needed in repo)
 /Assets/Samples/
