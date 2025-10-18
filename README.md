@@ -63,7 +63,7 @@ Server technicians, IT students, and anyone interested in understanding how serv
 
 ## Dependencies
 
-- [Meta All-In-One SDK](https://developer.oculus.com/downloads/package/meta-xr-all-in-one-sdk/)
+- [Meta All-In-One SDK](https://developers.meta.com/horizon/downloads/package/meta-xr-sdk-all-in-one-upm/)
 - [Meta Avatar SDK](https://developers.meta.com/horizon/downloads/package/meta-avatars-sdk/)
 - [Oculus XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.oculus@latest/)
 - [TextMeshPro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@latest/)
