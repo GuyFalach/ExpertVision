@@ -16,13 +16,13 @@ Server technicians, IT students, and anyone interested in understanding how serv
 
 ## Features
 
-- **Interactive Server Model** – Open server doors for a better view, grab and inspect internal components.  
+- **Interactive 3D Model of a Server** – Open server doors for a better view, grab and inspect internal components.  
 - **Scalable Parts** – Scale up or down individual parts for detailed examination.  
 - **Informational Overlays** – Access information about specific components.  
 - **Educational Video Integration** – Watch videos explaining server concepts.  
 - **Smart Class Connectivity** – Join a shared VR classroom with another user, where the teacher can observe and guide the student’s actions in real-time.  
 - **Full Interaction Support** – All interactions built using the Meta All-In-One SDK.  
-
+- **Support Multiplayer** - Both the teacher and the student can join the virtual class together, where each participant can view and interact with the 3D models in real time.
 **Experience Type:** Standing, room-scale VR.
 
 ---
