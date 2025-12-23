@@ -12,6 +12,10 @@ It aims to make the learning process more engaging, allowing students to “touc
 **Target Audience:**  
 Server technicians, IT students, and anyone interested in understanding how servers look and function.
 
+** Demo Video **
+A demo showing the project in action from the VR user's perspective.  
+[Watch the video](demo/ExpertVision.mp4)
+
 ---
 
 ## Features
